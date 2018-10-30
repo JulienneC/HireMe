@@ -1,0 +1,48 @@
+body {
+    background-image: url("https://wallpaperaccess.com/full/93568.png");
+    border-style: dotted;
+    border-color: #b21905;
+    border-width: 6px;
+}
+h1 {
+    color: #c0d6d8;
+    background-color: black; 
+    font-family: 'Bad Script', cursive;
+    text-align: center;
+    font-size: 45px;
+}
+h2 {
+    text-align: center;
+    font-family: 'Bad Script', cursive;
+}
+h3 {
+    font-family: 'Coming Soon', cursive;
+    text-align: center;
+    color: #b21905;
+    font-size: 24px;
+    background-color: black;
+}
+h4 { 
+    font-family: 'Coming Soon', cursive;
+    text-align: center;
+}
+ol { 
+    font-family: 'Coming Soon', cursive;
+    text-align: center;
+    list-style-position: inside;
+}
+p {
+    text-align: center;
+}
+strong {
+    font-family: 'Bad Script', cursive;
+    color: #b21905;
+    text-align: center;
+}
+ul {
+    text-align: center;
+    list-style-position: inside;
+    font-family: 'Coming Soon', cursive;
+    list-style-type: square;
+    color: #b21905;
+}
